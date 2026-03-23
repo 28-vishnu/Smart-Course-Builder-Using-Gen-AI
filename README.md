@@ -61,7 +61,7 @@ Smart Course Builder Using GEN AI is a Streamlit web app that lets you securely 
 1. **Clone the repository**
 
 ```
-git clone https://github.com/srilekhachokkarapu/smart-course-builder-genai.git
+git clone https://github.com/28-vishnu/Smart-Course-Builder-Using-Gen-AI.git
 cd smart-course-builder-genai
 ```
 
